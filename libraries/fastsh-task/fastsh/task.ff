@@ -1,7 +1,7 @@
 main_branch = "main"
 
-# Checkout a task, a branch will be created
-goal checkout:
+# Checkout a new task, a branch will be created
+goal new:
     - type "feature" ["feature", "fix", "hotfix", "break"] !
     - name String !
     try sh:
