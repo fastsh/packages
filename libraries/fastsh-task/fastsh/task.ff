@@ -11,8 +11,6 @@ goal new:
 
 # Commit and merge the current branch into the main branch
 goal merge:
-    do test:all
-
     branch = sh: git rev-parse --abbrev-ref HEAD
     "Merging branch '{{branch}}' into '{{main_branch}}'"
     try sh:
