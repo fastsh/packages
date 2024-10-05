@@ -1,4 +1,4 @@
 type: "bootstrap"
-owner: "<bootstrap_owner>"
-name: "<bootstrap_name>"
-version: "<bootstrap_version>"
+owner: "<package_owner>"
+name: "<package_name>"
+version: "<package_version>"

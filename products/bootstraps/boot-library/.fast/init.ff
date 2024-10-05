@@ -1,0 +1,4 @@
+
+- package_owner "me" [r"[\w]{3,}"]
+- package_name "myapp" [r"[\w]{3,}"]
+- package_version "0.1.0" [r"\d+.\d+.\d+"]

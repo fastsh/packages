@@ -1,5 +1,4 @@
-
-goal __init__:
-    - library_owner "fastsh" [r"[\w]{3,}"]
-    - library_name "myapp" [r"[\w]{3,}"]
-    - library_version "0.1.0" [r"\d+.\d+.\d+"]
+# Root configuration file
+# All parameters defined here can be accessed without any file prefix
+# For example:
+# If you define the parameter "name", you can access it by calling param("name")

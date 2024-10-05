@@ -1,5 +1,1 @@
-
-goal __init__:
-    - library_owner "fastsh" [r"[\w]{3,}"]
-    - library_name "myapp" [r"[\w]{3,}"]
-    - library_version "0.1.0" [r"\d+.\d+.\d+"]
+# My library
