@@ -1,0 +1,4 @@
+type: "bootstrap"
+owner: "<bootstrap_owner>"
+name: "<bootstrap_name>"
+version: "<bootstrap_version>"
