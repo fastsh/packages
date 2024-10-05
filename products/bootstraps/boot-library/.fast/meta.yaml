@@ -1,0 +1,4 @@
+type: "library"
+owner: "<library_owner>"
+name: "<library_name>"
+version: "<library_version>"
