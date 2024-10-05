@@ -1,1 +1,5 @@
 # My library
+
+# initialization variables, which may be set by the imported by the importing script
+# prefix it with "init" to document it
+init_var1 = ""

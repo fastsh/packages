@@ -1,5 +1,9 @@
 app_name = ""
 app_version = ""
 
+goal __init__:
+    - app_owner "fastsh" [r"[\w]{3,}"]
+    - app_name "myapp" [r"[\w]{3,}"]
+
 goal info:
     "Info - {{ app_name }} v{{ app_version }}"

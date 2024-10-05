@@ -1,4 +1,4 @@
 type: "configuration"
 owner: "<package_owner>"
 name: "<package_name>"
-version: "<package_version>"
+version: "0.1.0"
